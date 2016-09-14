@@ -1,0 +1,14 @@
+body{
+background-color: #ffff00;
+color:purple;
+}
+p.first{
+width: 10%;
+color:blue;
+font-family:cambria
+}
+p.second { 
+width: 100%; 
+color:blue;
+font-family: "Comic Sans MS";
+}
